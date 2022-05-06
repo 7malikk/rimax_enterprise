@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rimax_enterprise/static/css/main.9c12fc17.css",
+    "main.js": "/rimax_enterprise/static/js/main.8d48d3c7.js",
+    "static/js/787.234b7709.chunk.js": "/rimax_enterprise/static/js/787.234b7709.chunk.js",
+    "index.html": "/rimax_enterprise/index.html",
+    "main.9c12fc17.css.map": "/rimax_enterprise/static/css/main.9c12fc17.css.map",
+    "main.8d48d3c7.js.map": "/rimax_enterprise/static/js/main.8d48d3c7.js.map",
+    "787.234b7709.chunk.js.map": "/rimax_enterprise/static/js/787.234b7709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c12fc17.css",
+    "static/js/main.8d48d3c7.js"
+  ]
+}
